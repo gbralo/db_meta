@@ -30,7 +30,7 @@
       "tenant": "Središnji državni ured za razvoj digitalnog društva",
       "version": "2.1",
       "type": "elektronički",
-      "status": 
+      "status": "true"
   ],
   "users": [
     {
@@ -69,5 +69,5 @@
     "id":6,
     "name": "Ministarstvo financija"
   }
-    ]
+]
 }
