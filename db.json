@@ -23,7 +23,14 @@
       "version": "2.1",
       "type": "elektronički",
       "status": "true"
-    }
+    },
+     {
+      "id": 4,
+      "name": "Pravni propisi Republike Hrvatske",
+      "tenant": "Središnji državni ured za razvoj digitalnog društva",
+      "version": "2.1",
+      "type": "elektronički",
+      "status": 
   ],
   "users": [
     {
@@ -38,6 +45,27 @@
     }
   ],
   "tenants": {
-    "name": "typicode"
+    "id":1,
+    "name": "Državna geodetska uprava"
+  },
+{
+    "id":2,
+    "name": "Ministarstvo zdravstva"
+  },
+    {
+    "id":3,
+    "name": "Ministarstvo uprave"
+  },
+     {
+    "id":4,
+    "name": "Ministarstvo državne imovine"
+  },
+    {
+    "id":5,
+    "name": "Državni zavod za intelektualno vlasništvo"
+  },
+    {
+    "id":6,
+    "name": "Ministarstvo financija"
   }
 }
