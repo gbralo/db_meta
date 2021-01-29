@@ -44,7 +44,8 @@
       "postId": 1
     }
   ],
-  "tenants": {
+  "tenants": [
+    {
     "id":1,
     "name": "Državna geodetska uprava"
   },
@@ -68,4 +69,5 @@
     "id":6,
     "name": "Ministarstvo financija"
   }
+    ]
 }
