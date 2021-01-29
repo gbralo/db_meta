@@ -5,7 +5,7 @@
       "name": "Registar subjekata Nacionalne infrastrukture prostornih podataka (NIPP-a)",
       "tenant": "Ministarstvo zdravstva",
       "version": "2.1",
-      "type": "elektronički".
+      "type": "elektronički",
       "status": "true"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Registar geografskih imena",
       "tenant": "Državna geodetska uprava",
       "version": "2.0",
-      "type": "papirnato".
+      "type": "papirnato",
       "status": "true"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Registar subjekata Nacionalne infrastrukture prostornih podataka (NIPP-a)",
       "tenant": "Ministarstvo zdravstva",
       "version": "2.1",
-      "type": "elektronički".
+      "type": "elektronički",
       "status": "true"
     }
   ],
