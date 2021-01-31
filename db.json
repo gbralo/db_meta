@@ -88,7 +88,7 @@
       "firstName": "Ante",
       "lastname": "Antic",
       "email": "ante.antic@murh.gov.hr",
-      "tenant": "Ministarstvo uprave"
+      "tenant": "Ministarstvo uprave",
       "status": "true",
       "location": "Zagreb"
     },
@@ -97,7 +97,7 @@
       "firstName": "Stipe",
       "lastname": "Stipic",
       "email": "stipe.stipic@geo.gov.hr",
-      "tenant": "Geodetski ured"
+      "tenant": "Geodetski ured",
       "status": "true",
       "location": "Sisak"
     },
@@ -106,7 +106,7 @@
       "firstName": "Ivan",
       "lastname": "Ivanic",
       "email": "ivan.ivanic@cdu.gov.hr",
-      "tenant": "Centar djeljenih usluga"
+      "tenant": "Centar djeljenih usluga",
       "status": "true",
       "location": "Zagreb"
     },
@@ -115,7 +115,7 @@
       "firstName": "Roko",
       "lastname": "Rokic",
       "email": "roko.rokic@mf.gov.hr",
-      "tenant": "Ministarstvo financija"
+      "tenant": "Ministarstvo financija",
       "status": "true",
       "location": "Zagreb"
     },
@@ -124,7 +124,7 @@
       "firstName": "Mate",
       "lastname": "Matic",
       "email": "mate.matic@hzzjz.gov.hr",
-      "tenant": "Ministarstvo zdravstva"
+      "tenant": "Ministarstvo zdravstva",
       "status": "true",
       "location": "Zagreb"
     }
