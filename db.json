@@ -31,7 +31,56 @@
       "version": "2.1",
       "type": "elektronički",
       "status": "true"
+     },
+    {
+      "id": 5,
+      "name": "Registar koncesija",
+      "tenant": "Ministarstvo financija",
+      "version": "1.1",
+      "type": "elektronički",
+      "status": "true"
+     },
+    {
+      "id": 6,
+      "name": "Registar životnog partnerstva",
+      "tenant": "Ministartsvo uprave",
+      "version": "1.0",
+      "type": "elektronički",
+      "status": "true"
+     },
+    {
+      "id": 7,
+      "name": "Matica umrlih",
+      "tenant": "Ministarstvo uprave",
+      "version": "1.1",
+      "type": "elektronički",
+      "status": "true"
+     },
+    {
+      "id": 8,
+      "name": "Knjiga državljana",
+      "tenant": "Ministarstvo uprave",
+      "version": "3.1",
+      "type": "elektronički",
+      "status": "true"
+     },
+    {
+      "id": 9,
+      "name": "Matica vjenčanih",
+      "tenant": "Ministarstvo uprave",
+      "version": "3.1",
+      "type": "elektronički",
+      "status": "true"
+     },
+    {
+      "id": 10,
+      "name": "Matica rođenih",
+      "tenant": "Ministarstvo uprave",
+      "version": "3.1",
+      "type": "elektronički",
+      "status": "true"
      }
+    
   ],
   "users": [
     {
