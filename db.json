@@ -85,13 +85,48 @@
   "users": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "firstName": "Ante",
+      "lastname": "Antic",
+      "email": "ante.antic@murh.gov.hr",
+      "tenant": "Ministarstvo uprave"
+      "status": "true",
+      "location": "Zagreb"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "firstName": "Stipe",
+      "lastname": "Stipic",
+      "email": "stipe.stipic@geo.gov.hr",
+      "tenant": "Geodetski ured"
+      "status": "true",
+      "location": "Sisak"
+    },
+    {
+      "id": 3,
+      "firstName": "Ivan",
+      "lastname": "Ivanic",
+      "email": "ivan.ivanic@cdu.gov.hr",
+      "tenant": "Centar djeljenih usluga"
+      "status": "true",
+      "location": "Zagreb"
+    },
+    {
+      "id": 4,
+      "firstName": "Roko",
+      "lastname": "Rokic",
+      "email": "roko.rokic@mf.gov.hr",
+      "tenant": "Ministarstvo financija"
+      "status": "true",
+      "location": "Zagreb"
+    },
+    {
+      "id": 5,
+      "firstName": "Mate",
+      "lastname": "Matic",
+      "email": "mate.matic@hzzjz.gov.hr",
+      "tenant": "Ministarstvo zdravstva"
+      "status": "true",
+      "location": "Zagreb"
     }
   ],
   "tenants": [
