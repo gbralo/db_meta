@@ -22,7 +22,7 @@
       "tenant": "Ministarstvo zdravstva",
       "version": "2.1",
       "type": "elektronički",
-      "status": "true"
+      "status": "false"
     },
      {
       "id": 4,
@@ -38,7 +38,7 @@
       "tenant": "Ministarstvo financija",
       "version": "1.1",
       "type": "elektronički",
-      "status": "true"
+      "status": "false"
      },
     {
       "id": 6,
