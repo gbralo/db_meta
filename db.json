@@ -160,44 +160,44 @@
       "id": 1,
       "name": "Telefon",
       "description":"Opis",
-      "infoLength":"25",
+      "length":"25",
       "type": "ALFANUM",
-      "IsActive": "True",
-      "IsObligatory":"True",
-      "IsAuthentic": "True",
-      "IsPersonal": "False"      
+      "isActive": "True",
+      "isObligatory":"True",
+      "isAuthentication": "True",
+      "isPersonal": "False"      
     },
 {
       "id": 2,
       "name": "OIB",
       "description":"OIb osobe",
-      "infoLength":"11",
+      "length":"11",
       "type": "NUM",
       "IsActive": "True",
       "IsObligatory":"True",
-      "IsAuthentic": "True",
+      "isAuthentication": "True",
       "IsPersonal": "True"     
     },
   {
       "id": 3,
       "name": "Adresa",
       "description":"Adresa, ulica i broj",
-      "infoLength":"250",
+      "length":"250",
       "type": "ALFANUM",
       "IsActive": "True",
       "IsObligatory":"True",
-      "IsAuthentic": "True",
+      "isAuthentication": "True",
       "IsPersonal": "False"      
     },
       {
       "id": 4,
       "name": "Ime",
       "description":"Ime osobe",
-      "infoLength":"250",
+      "length":"250",
       "type": "ALFANUM",
       "IsActive": "True",
       "IsObligatory":"True",
-      "IsAuthentic": "True",
+      "isAuthentication": "True",
       "IsPersonal": "True"    
     }
 
