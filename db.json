@@ -159,11 +159,11 @@
     {
       "id": 1,
       "name": "Telefon",
-      "description":"Opis"
-      "Length":25,
+      "description":"Opis",
+      "Length":"25",
       "type": "ALFANUM",
-      "IsActive": "True"
-      "IsObligatory":"True"
+      "IsActive": "True",
+      "IsObligatory":"True",
       "IsAuthentic": "True",
       "IsPersonal": "False"      
     },
@@ -171,32 +171,32 @@
       "id": 2,
       "name": "OIB",
       "description":"OIb osobe"
-      "Length":11,
+      "Length":"11",
       "type": "NUM",
-      "IsActive": "True"
-      "IsObligatory":"True"
+      "IsActive": "True",
+      "IsObligatory":"True",
       "IsAuthentic": "True",
       "IsPersonal": "True"     
     },
   {
       "id": 3,
       "name": "Adresa",
-      "description":"Adresa, ulica i broj"
-      "Length":250,
+      "description":"Adresa, ulica i broj",
+      "Length":"250",
       "type": "ALFANUM",
-      "IsActive": "True"
-      "IsObligatory":"True"
+      "IsActive": "True",
+      "IsObligatory":"True",
       "IsAuthentic": "True",
       "IsPersonal": "False"      
     },
       {
       "id": 4,
       "name": "Ime",
-      "description":"Ime osobe"
-      "Length":250,
+      "description":"Ime osobe",
+      "Length":"250",
       "type": "ALFANUM",
-      "IsActive": "True"
-      "IsObligatory":"True"
+      "IsActive": "True",
+      "IsObligatory":"True",
       "IsAuthentic": "True",
       "IsPersonal": "True"    
     }
