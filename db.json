@@ -170,7 +170,7 @@
 {
       "id": 2,
       "name": "OIB",
-      "description":"OIb osobe"
+      "description":"OIb osobe",
       "Length":"11",
       "type": "NUM",
       "IsActive": "True",
