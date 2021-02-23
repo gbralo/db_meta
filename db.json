@@ -155,4 +155,21 @@
     "name": "Ministarstvo financija"
   }
 ]
+   "informations": [
+    {
+      "id": 1,
+      "name": "Telefon",
+      "type": "NUM",
+      "IsAuthentic": "True",
+      "IsPersonal": "False"      
+    },
+{
+      "id": 2,
+      "name": "OIB",
+      "type": "NUM",
+      "IsAuthentic": "True",
+      "IsPersonal": "True"      
+    }
+
+]
 }
