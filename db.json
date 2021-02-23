@@ -173,10 +173,10 @@
       "description":"OIb osobe",
       "length":"11",
       "type": "NUM",
-      "IsActive": true,
-      "IsObligatory":true,
+      "isActive": true,
+      "isObligatory":true,
       "isAuthentication": true,
-      "IsPersonal": true     
+      "isPersonal": true     
     },
   {
       "id": 3,
@@ -184,10 +184,10 @@
       "description":"Adresa, ulica i broj",
       "length":"250",
       "type": "ALFANUM",
-      "IsActive": true,
-      "IsObligatory":true,
-      "isAuthentication": true"
-      "IsPersonal": false      
+      "isActive": true,
+      "isObligatory":true,
+      "isAuthentication": true,
+      "isPersonal": false      
     },
       {
       "id": 4,
@@ -195,10 +195,10 @@
       "description":"Ime osobe",
       "length":"250",
       "type": "ALFANUM",
-      "IsActive": true,
-      "IsObligatory":true,
+      "isActive": true,
+      "isObligatory":true,
       "isAuthentication": true,
-      "IsPersonal": true   
+      "isPersonal": true   
     }
 
 ]
