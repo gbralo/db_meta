@@ -176,6 +176,13 @@
       "type": "ALFANUM",
       "IsAuthentic": "True",
       "IsPersonal": "False"      
+    },
+      {
+      "id": 4,
+      "name": "Ime",
+      "type": "CHAR",
+      "IsAuthentic": "True",
+      "IsPersonal": "True"      
     }
 
 ]
