@@ -169,13 +169,6 @@
       "type": "NUM",
       "IsAuthentic": "True",
       "IsPersonal": "True"      
-    },
-     {
-      "id": 3,
-      "name": "Adresa",
-      "type": "ALFANUM",
-      "IsAuthentic": "True",
-      "IsPersonal": "False"      
     }
 
 ]
