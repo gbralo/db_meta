@@ -162,10 +162,10 @@
       "description":"Opis",
       "length":"25",
       "type": "ALFANUM",
-      "isActive": "True",
-      "isObligatory":"True",
-      "isAuthentication": "True",
-      "isPersonal": "False"      
+      "isActive": true,
+      "isObligatory":true,
+      "isAuthentication": true,
+      "isPersonal": false      
     },
 {
       "id": 2,
@@ -173,10 +173,10 @@
       "description":"OIb osobe",
       "length":"11",
       "type": "NUM",
-      "IsActive": "True",
-      "IsObligatory":"True",
-      "isAuthentication": "True",
-      "IsPersonal": "True"     
+      "IsActive": true,
+      "IsObligatory":true,
+      "isAuthentication": true,
+      "IsPersonal": true     
     },
   {
       "id": 3,
@@ -184,10 +184,10 @@
       "description":"Adresa, ulica i broj",
       "length":"250",
       "type": "ALFANUM",
-      "IsActive": "True",
-      "IsObligatory":"True",
-      "isAuthentication": "True",
-      "IsPersonal": "False"      
+      "IsActive": true,
+      "IsObligatory":true,
+      "isAuthentication": true"
+      "IsPersonal": false      
     },
       {
       "id": 4,
@@ -195,10 +195,10 @@
       "description":"Ime osobe",
       "length":"250",
       "type": "ALFANUM",
-      "IsActive": "True",
-      "IsObligatory":"True",
-      "isAuthentication": "True",
-      "IsPersonal": "True"    
+      "IsActive": true,
+      "IsObligatory":true,
+      "isAuthentication": true,
+      "IsPersonal": true   
     }
 
 ]
